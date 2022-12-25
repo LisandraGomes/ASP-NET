@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lisandra\\Documents\\0-git\\ASP NET\\CMLanchesMac\\CMLanchesMac\\CMLanchesMac.csproj": {}
+    "C:\\Users\\Lisandra\\Documents\\0-git\\ASP-NET\\CMLanchesMac\\CMLanchesMac\\CMLanchesMac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lisandra\\Documents\\0-git\\ASP NET\\CMLanchesMac\\CMLanchesMac\\CMLanchesMac.csproj": {
+    "C:\\Users\\Lisandra\\Documents\\0-git\\ASP-NET\\CMLanchesMac\\CMLanchesMac\\CMLanchesMac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lisandra\\Documents\\0-git\\ASP NET\\CMLanchesMac\\CMLanchesMac\\CMLanchesMac.csproj",
+        "projectUniqueName": "C:\\Users\\Lisandra\\Documents\\0-git\\ASP-NET\\CMLanchesMac\\CMLanchesMac\\CMLanchesMac.csproj",
         "projectName": "CMLanchesMac",
-        "projectPath": "C:\\Users\\Lisandra\\Documents\\0-git\\ASP NET\\CMLanchesMac\\CMLanchesMac\\CMLanchesMac.csproj",
+        "projectPath": "C:\\Users\\Lisandra\\Documents\\0-git\\ASP-NET\\CMLanchesMac\\CMLanchesMac\\CMLanchesMac.csproj",
         "packagesPath": "C:\\Users\\Lisandra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lisandra\\Documents\\0-git\\ASP NET\\CMLanchesMac\\CMLanchesMac\\obj\\",
+        "outputPath": "C:\\Users\\Lisandra\\Documents\\0-git\\ASP-NET\\CMLanchesMac\\CMLanchesMac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lisandra\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ddVK6gvm5kzjvmc8FUG68PUHvP1eXp6rjLuqImHnIrUo9dHKdOoHB6B/QHrp7XHdPJpmg7T74mHvjko5XgRckQ==",
+  "dgSpecHash": "C/IwKuGn3NC9e3UffEfckhjHdFlkbFBsGcnx6KaEx+AT5AB2rb/hsQ/FJ9tEomDXJmJ0RPjCV4Jt2fXDqQiOcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lisandra\\Documents\\0-git\\ASP NET\\CMLanchesMac\\CMLanchesMac\\CMLanchesMac.csproj",
+  "projectFilePath": "C:\\Users\\Lisandra\\Documents\\0-git\\ASP-NET\\CMLanchesMac\\CMLanchesMac\\CMLanchesMac.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lisandra\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.3\\microsoft.aspnetcore.cryptography.internal.6.0.3.nupkg.sha512",
